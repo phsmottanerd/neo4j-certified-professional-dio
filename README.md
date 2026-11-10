@@ -1,20 +1,34 @@
 # Minha Certificação Neo4j Certified Professional
 
-Este repositório é o Desafio de Projeto que fecha o Bootcamp [Neo4j Certified Professional](https://web.dio.me/track/neo4j-certified-professional). Nele, você compartilha a sua certificação **Neo4j Certified Professional**, emitida pela GraphAcademy. É o último passo para sair do Bootcamp com dois certificados, o da DIO e o da Neo4j.
+Este repositório faz parte do Desafio de Projeto que conclui o Bootcamp [Neo4j Certified Professional](https://web.dio.me/track/neo4j-certified-professional), da Digital Innovation One (DIO).
+
+O objetivo é compartilhar e comprovar minha conquista da certificação oficial **Neo4j Certified Professional**, emitida pela Neo4j GraphAcademy.
 
 ## Minha Certificação
 
-- **Nome:** Seu Nome
-- **Certificado:** https://graphacademy.neo4j.com/c/seu-codigo
+- **Nome:** Paulo Henrique Santana Motta
+- **Certificação:** Neo4j Certified Professional
+- **Instituição emissora:** Neo4j GraphAcademy
+- **Certificado:** https://graphacademy.neo4j.com/c/4adf7e1c-4e4c-4695-bd35-da26368b7631
+- **Verification ID:** `4adf7e1c-4e4c-4695-bd35-da26368b7631`
 
-## Como Foi a Jornada (opcional)
+## Como Foi a Jornada
 
-Em poucas linhas, conte como você se preparou, qual tema da prova deu mais trabalho e o que vem a seguir.
+Durante minha preparação, estudei os fundamentos do Neo4j, banco de dados orientado a grafos, modelagem de dados, relacionamentos e consultas utilizando Cypher.
 
-## Como Entregar
+A realização da certificação ampliou meus conhecimentos sobre tecnologias de bancos de dados de grafos e suas aplicações.
 
-1. Faça a prova na [página da certificação](https://graphacademy.neo4j.com/certifications/neo4j-certification). Ela é gratuita e, se você não passar, pode tentar de novo depois de 24 horas;
-2. Com a aprovação, o certificado sai na hora. Abra a página dele e copie o endereço, que começa com `https://graphacademy.neo4j.com/c/`;
-3. Faça um fork deste repositório, ou crie um repositório público na sua conta e copie este README;
-4. Na seção **Minha Certificação**, troque `Seu Nome` pelo seu nome e o link de exemplo pelo seu;
-5. Envie o link do seu repositório na plataforma da DIO.
+Como próximo passo, pretendo aprofundar meus conhecimentos em Graph Data Science e explorar novas possibilidades de aplicação dessa tecnologia.
+
+## Sobre a Certificação
+
+A certificação **Neo4j Certified Professional** comprova conhecimentos sobre a plataforma Neo4j e seus principais conceitos e recursos.
+
+- [Neo4j GraphAcademy](https://graphacademy.neo4j.com/)
+- [Página oficial da certificação](https://graphacademy.neo4j.com/certifications/neo4j-certification)
+
+---
+
+**Certificação conquistada por:** Paulo Henrique Santana Motta  
+**Emissor:** Neo4j GraphAcademy  
+**Bootcamp:** Digital Innovation One (DIO)
